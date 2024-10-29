@@ -11,3 +11,6 @@ data/*.csv
 __pycache__/
 *.pyc
 *.pyo
+
+# Ignore enviornment variables
+.env
